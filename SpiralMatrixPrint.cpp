@@ -35,8 +35,7 @@ void spiralPrint(int m, int n, int a[R][C])
                 cout<<a[i][c]<<" ";
             }
             c++;
-        }
-        
+        }   
     }
 }
 int main()
